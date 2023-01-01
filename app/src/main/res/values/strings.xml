@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fedex</string>
+    <string name="notification_channel_id">colis_poll</string>
+    <string name="notification_channel_nom">Colis</string>
+    <string name="label_id">Id: %1$s </string>
+    <string name="label_adresse">Adresse: %1$s </string>
+    <string name="label_poids">Poids: %1$skg </string>
+    <string name="recupere">Récupérer</string>
+    <string name="se_connecter">Se connecter</string>
+    <string name="search">Recherche</string>
+    <string name="clear_search">Effacer recherche</string>
+    <string name="texte_est_recupere">Est récupéré!</string>
+    <string name="texte_bouton_connexion">Connexion</string>
+    <string name="texte_bouton_deconnexion">Déconnexion</string>
+</resources>

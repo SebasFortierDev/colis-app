@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73284864177",
+    "project_id": "tp-fedex",
+    "storage_bucket": "tp-fedex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73284864177:android:a75ec20046a08318dc7a90",
+        "android_client_info": {
+          "package_name": "cstjean.mobile.tp_fedex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73284864177-548klk811u6clvhq15a6lf9s4c0nrpd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8c2UgXM8VN1oln5K_X6o6WlAcAqe8M0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73284864177-548klk811u6clvhq15a6lf9s4c0nrpd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
